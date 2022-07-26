@@ -1,6 +1,18 @@
 # Next.js with Bun runtime
 
+![Run](/public/run.png)
+![List](/public/list.png)
+![Detail](/public/detail.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with Bun.
+
+Resources:
+- API - https://jsonplaceholder.typicode.com
+- Bun.sh - https://bun.sh
+- NextJS - https://nextjs.org
+- TypeScript - https://www.typescriptlang.org
+
+Source: https://www.youtube.com/watch?v=2aWujq0r_7g&t=909s
 
 ## Getting Started
 
